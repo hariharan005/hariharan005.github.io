@@ -1,9 +1,0 @@
-First Name: Hari
-Last Name: Haran
-Email: harichella005@gmail.com
-Contact: 9790755231
-Message: Hi hari
-
-User IP: 127.0.0.1
-User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-
